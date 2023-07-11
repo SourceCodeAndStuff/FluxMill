@@ -8,4 +8,4 @@
 
 ## View 3D model on Sketchfab
 
-[https://sketchfab.com/3d-models/flux-mill-magnetic-wind-mill-e5ea704521ac4960827bc10e5f821857]
+[https://sketchfab.com/3d-models/flux-mill-magnetic-wind-mill-e5ea704521ac4960827bc10e5f821857](https://sketchfab.com/3d-models/flux-mill-magnetic-wind-mill-e5ea704521ac4960827bc10e5f821857)
