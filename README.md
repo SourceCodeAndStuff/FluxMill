@@ -1,6 +1,6 @@
 # FluxMill
 
-!(FluxMill)[https://github.com/SourceCodeAndStuff/FluxMill/blob/main/Gear%20flux.2073.jpg]
+![FluxMill](https://github.com/SourceCodeAndStuff/FluxMill/blob/main/Gear%20flux.2073.jpg)
 
 3D model based on the hypothesis of magnetic wind-mills
 
